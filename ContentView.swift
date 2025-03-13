@@ -68,27 +68,27 @@ struct ContentView: View
             .tabItem
             {
                 Image(systemName: "house")
-                Text("Home")
+                Text("Ana Sayfa")
             }
 
             NavigationView
             {
-                Text("Servers")
+                Text("Ara")
             }
             .tabItem
             {
                 Image(systemName: "magnifyingglass")
-                Text("Services")
+                Text("Harita")
             }
             
             NavigationView
             {
-                Text("Search1")
+                Text("Favoriler")
             }
             .tabItem
             {
                 Image(systemName: "account")
-                Text("Account")
+                Text("Hesabım")
             }
             
             NavigationView
