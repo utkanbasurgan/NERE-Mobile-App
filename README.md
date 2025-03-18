@@ -4,3 +4,4 @@
 📈 Kendi deneyimlerinizi paylaşın.
 🌟 Seyahat edenler, yerel kullanıcılar ve keşif tutkunları için samimi değerlendirmelere ve keşfedilmemiş mekanlara ulaşmanın en etkili yolu.
 🧭 NERE ile daha akıllı navigasyon.
+ version 3
