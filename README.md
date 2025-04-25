@@ -1,2 +1,1 @@
-NERE UYGULAMASI GELİYOR
- ŞİMDİ
+Nere Mobile APP
