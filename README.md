@@ -1,1 +1,1 @@
-Nere Mobile APP
+mNere Mobile APP
